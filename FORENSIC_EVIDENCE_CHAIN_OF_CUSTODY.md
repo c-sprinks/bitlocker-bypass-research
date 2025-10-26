@@ -12,7 +12,7 @@
 
 ### Engagement Summary
 - **Case Type:** Authorized Penetration Testing
-- **Target System:** Dell Inspiron 13 5310 (Service Tag: 6WCRS93)
+- **Target System:** Corporate Laptop (Service Tag: [REDACTED])
 - **Scope:** Physical BitLocker bypass assessment
 - **Evidence Types:** Digital forensic images, cryptographic keys, registry artifacts
 

@@ -1,7 +1,7 @@
 # Evidence Documentation
-## CertaSite - Physical Laptop Recovery Assessment
+## Enterprise Client - Physical Laptop Recovery Assessment
 
-**Case ID:** CST-2025-001
+**Case ID:** ENT-2025-001
 **Date:** October 25-26, 2025
 **Classification:** CONFIDENTIAL
 

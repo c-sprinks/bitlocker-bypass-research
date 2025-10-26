@@ -1,7 +1,7 @@
-# CertaSite Physical Laptop Recovery Assessment
+# Enterprise Client Physical Laptop Recovery Assessment
 ## Professional Penetration Testing Portfolio
 
-**Client:** CertaSite
+**Client:** Enterprise Client
 **Engagement:** Physical Laptop Recovery Assessment
 **Date:** October 25-26, 2025
 **Status:** ✅ **SUCCESSFULLY COMPLETED**
@@ -10,7 +10,7 @@
 
 ## Executive Overview
 
-This repository contains comprehensive documentation of a professional penetration testing engagement conducted for CertaSite. The assessment evaluated data recovery capabilities for corporate laptops protected by BitLocker encryption in scenarios where employees lose access credentials.
+This repository contains comprehensive documentation of a professional penetration testing engagement conducted for Enterprise Client. The assessment evaluated data recovery capabilities for corporate laptops protected by BitLocker encryption in scenarios where employees lose access credentials.
 
 ### Key Achievements
 - ✅ **Complete BitLocker bypass** achieved using CVE-2023-21563
@@ -22,12 +22,12 @@ This repository contains comprehensive documentation of a professional penetrati
 
 ## Professional Documentation Suite
 
-### 🏆 [CertaSite Engagement Complete](./CERTASITE_ENGAGEMENT_COMPLETE.md)
+### 🏆 [Enterprise Engagement Complete](./ENTERPRISE_ENGAGEMENT_COMPLETE.md)
 **Audience:** Executive leadership, IT management, compliance
 **Content:** Complete engagement summary, live verification results, business impact analysis
 **Standard:** PTES/OWASP/NIST SP 800-115 compliant
 
-### 🔧 [CertaSite Technical Verification](./CERTASITE_TECHNICAL_VERIFICATION.md)
+### 🔧 [Enterprise Technical Verification](./ENTERPRISE_TECHNICAL_VERIFICATION.md)
 **Audience:** Security engineers, technical teams
 **Content:** Live system access results, detailed technical findings, verification evidence
 **Standard:** Industry-standard penetration testing documentation
@@ -47,7 +47,7 @@ This repository contains comprehensive documentation of a professional penetrati
 ## Technical Summary
 
 ### Engagement Scope
-- **Target:** Dell Inspiron 13 5310 with BitLocker encryption
+- **Target:** Corporate laptop with BitLocker encryption
 - **Scenario:** Employee password forgotten, recovery key unavailable
 - **Method:** CVE-2023-21563 exploitation using BitPixie framework
 - **Result:** Complete data recovery achieved
@@ -103,7 +103,7 @@ This repository contains comprehensive documentation of a professional penetrati
 
 ## Business Value Delivered
 
-### For CertaSite
+### For Enterprise Client
 - **Data Recovery Capability:** Proven method for accessing encrypted laptops
 - **Security Posture Assessment:** Identification of BitLocker vulnerabilities
 - **Compliance Documentation:** Professional evidence handling procedures
@@ -120,9 +120,9 @@ This repository contains comprehensive documentation of a professional penetrati
 ## Repository Structure
 
 ```
-bit-bypass/
-├── CERTASITE_ENGAGEMENT_COMPLETE.md           # Executive summary & business impact
-├── CERTASITE_TECHNICAL_VERIFICATION.md        # Live technical verification results
+bitlocker-bypass-research/
+├── ENTERPRISE_ENGAGEMENT_COMPLETE.md          # Executive summary & business impact
+├── ENTERPRISE_TECHNICAL_VERIFICATION.md       # Live technical verification results
 ├── BITLOCKER_BYPASS_HOWTO_GUIDE.md           # Complete step-by-step methodology
 ├── FORENSIC_EVIDENCE_CHAIN_OF_CUSTODY.md     # Legal compliance documentation
 ├── evidence/                                  # Evidence artifacts
@@ -136,7 +136,7 @@ bit-bypass/
 
 ### Authorization
 - ✅ Authorized penetration testing engagement
-- ✅ CertaSite approval obtained
+- ✅ Enterprise Client approval obtained
 - ✅ Scope and boundaries clearly defined
 - ✅ Professional ethical standards maintained
 

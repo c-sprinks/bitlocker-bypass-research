@@ -11,7 +11,7 @@
 
 ## 🎯 **OVERVIEW**
 
-This guide demonstrates the complete methodology used in the successful CertaSite engagement to bypass BitLocker encryption and achieve full Administrator access on a physically accessible laptop.
+This guide demonstrates the complete methodology used in the successful Enterprise Client engagement to bypass BitLocker encryption and achieve full Administrator access on a physically accessible laptop.
 
 ### **What This Guide Covers:**
 - Physical laptop acquisition and forensic imaging
@@ -39,7 +39,7 @@ BITLOCKER_PARTITION="3"         # BitLocker partition number (usually p3)
 
 # Target Information
 TARGET_USERNAME="username"      # Target user account to access
-LAPTOP_MODEL="Dell Latitude"    # Laptop model for documentation
+LAPTOP_MODEL="Corporate Laptop"    # Laptop model for documentation
 SERIAL_NUMBER="ABC123"          # Serial number for chain of custody
 ```
 
